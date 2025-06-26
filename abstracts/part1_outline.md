@@ -1,4 +1,4 @@
-# Part 1 Outline: DIY Local LLM Bootcamp
+# Part 1 Outline: DIY Local LLM Bootcamp 🤖
 
 ## Abstract
 **Authors:**  
@@ -9,28 +9,28 @@ This presentation introduces foundational concepts of open-source large language
 
 **Keywords:** Open-source LLMs, Ollama, LM Studio, Local Deployment, API Basics 🛠️
 
-1. Introduction & Motivation (5 min)
-   - What are LLMs? Why run them locally?
-   - Benefits: privacy, cost, customization
+1. 🚀 **Introduction & Motivation** (5 min)
+   - 🤔 What are LLMs? Why run them locally?
+   - 🔒 Benefits: privacy, cost, customization
 
-2. Overview of Open-Source LLMs (5 min)
-   - Popular open-source models
-   - Hardware considerations
+2. 🌐 **Overview of Open-Source LLMs** (5 min)
+   - 🏆 Popular open-source models
+   - 💻 Hardware considerations
 
-3. Tools for Local LLMs (10 min)
-   - Introduction to Ollama and LM Studio
-   - RESTful API endpoints
+3. 🧰 **Tools for Local LLMs** (10 min)
+   - 🦙 Introduction to Ollama and LM Studio
+   - 🔗 RESTful API endpoints
 
-4. Installation & Configuration (10 min)
-   - Step-by-step: installing Ollama and LM Studio
-   - Loading and managing models
+4. ⚙️ **Installation & Configuration** (10 min)
+   - 🪜 Step-by-step: installing Ollama and LM Studio
+   - 📦 Loading and managing models
 
-5. Running Inference & Resource Monitoring (5 min)
-   - Basic inference workflows
-   - Monitoring system resources
+5. 📊 **Running Inference & Resource Monitoring** (5 min)
+   - 🧪 Basic inference workflows
+   - 🖥️ Monitoring system resources
 
-6. Practical Examples (5 min)
-   - Command-line interactions
-   - Using built-in RAG chatbots
+6. 🛠️ **Practical Examples** (5 min)
+   - 💻 Command-line interactions
+   - 🤖 Using built-in RAG chatbots
 
-7. Q&A (10 min)
+7. ❓ **Q&A** (10 min)

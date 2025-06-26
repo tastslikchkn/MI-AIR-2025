@@ -2,12 +2,6 @@
   <img src="images/logo_IA.jpg" alt="Conference Logo" width="1000"/>
 </p>
 
-<p align="center">
-  <a href="https://sites.google.com/miair.org/miair2023/home">
-    <img src="images/logo_IA.jpg" alt="MI/AIR Conference Logo" width="300"/>
-  </a>
-</p>
-
 [Visit the MI/AIR 2025 Conference Website](https://sites.google.com/miair.org/miair2023/home)
 
 This repo contains abstracts, vocabulary guides, and supporting materials for the 3 part Local LLM series from the University of Michigan - Flint. Use the links below to access all materials and setup guides.
@@ -18,7 +12,7 @@ This repo contains abstracts, vocabulary guides, and supporting materials for th
   - [Part 1 Outline (with Abstract)](abstracts/part1_outline.md)
   - [Part 2 Outline (with Abstract)](abstracts/part2_outline.md)
   - [Part 3 Outline (with Abstract)](abstracts/part3_outline.md)
-  
+
 - [Vocabulary & Acronyms](docs/vocabulary_and_acronyms.md)
 
 ### Setup Instructions by Operating System
