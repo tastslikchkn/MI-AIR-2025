@@ -9,24 +9,24 @@ The final presentation introduces Vibe Coding, a paradigm where local LLMs direc
 
 **Keywords:** Vibe Coding, PRDs, Task Lists, IDE Integration, Custom Prompts ✨
 
-1. 🎵 **Introduction to Vibe Coding** (5 min)
+1. [🎵 **Introduction to Vibe Coding** (5 min)](part3/01-intro-vibe-coding.md)
    - 💡 What is Vibe Coding?
    - 👩‍💻 Benefits for analysts and developers
 
-2. 🛠️ **Setting Up VSCode for LLMs** (7 min)
+2. [🛠️ **Setting Up VSCode for LLMs** (7 min)](part3/02-setup-vscode-llms.md)
    - 🧩 Extensions and configuration
    - 🐍💻 Supported languages (Python, HTML, CSS, JS)
 
-3. 🧠 **Customizing Model Behavior** (8 min)
+3. [🧠 **Customizing Model Behavior** (8 min)](part3/03-customizing-model-behavior.md)
    - 📝 Prompt engineering and hierarchical prompting
    - 🧑‍🔬 Example prompts and workflows
 
-4. ⚡ **Real-Time Coding & Documentation** (7 min)
+4. [⚡ **Real-Time Coding & Documentation** (7 min)](part3/04-real-time-coding-docs.md)
    - ✍️ Code completion, debugging, and documentation generation
    - 🔒 Privacy and resource control
 
-5. 🚀 **Advanced Workflows & Extensions** (8 min)
+5. [🚀 **Advanced Workflows & Extensions** (8 min)](part3/05-advanced-workflows-extensions.md)
    - 🧩 Enhancing capabilities with extensions
    - 🛠️ Tailoring workflows to your needs
 
-6. ❓ **Q&A and Wrap-Up** (10 min)
+6. [❓ **Q&A and Wrap-Up** (10 min)](part3/06-qa-wrap-up.md)

@@ -9,22 +9,22 @@ Building on the Part 1 session’s foundational knowledge, this presentation div
 
 **Keywords:** LLM APIs, Model Integration, Security Best Practices, Performance Optimization 🚀
 
-1. 🔄 **Recap of Part 1 & Session Goals** (3 min)
+1. [🔄 **Recap of Part 1 & Session Goals** (3 min)](part2/01-recap-session-goals.md)
 
-2. 🧩 **Integrating LLMs with Applications** (7 min)
+2. [🧩 **Integrating LLMs with Applications** (7 min)](part2/02-integrating-llms-apps.md)
    - 🌐 RESTful APIs: concepts and use cases
    - 🤖 Connecting LLMs to chatbots, data tools, scripts, IDEs
 
-3. 🛡️ **Security & Performance** (7 min)
+3. [🛡️ **Security & Performance** (7 min)](part2/03-security-performance.md)
    - 🔒 Security best practices for local APIs
    - ⚡ Performance optimization for low-resource environments
 
-4. 🧪 **Hands-On Integration Demos** (13 min)
+4. [🧪 **Hands-On Integration Demos** (13 min)](part2/04-hands-on-demos.md)
    - 🐍 Using Python requests to connect to LLM APIs
    - 🦜 LangChain and other toolkits
    - 📊 Example: integrating with a data analysis platform
 
-5. 💻 **IDE Integration Demo** (5 min)
+5. [💻 **IDE Integration Demo** (5 min)](part2/05-ide-integration-demo.md)
    - ⚡ Real-time agentic coding in IDEs
 
-6. ❓ **Preparing for Part 3 (Q&A, Next Steps)** (10 min)
+6. [❓ **Preparing for Part 3 (Q&A, Next Steps)** (10 min)](part2/06-qa-next-steps.md)

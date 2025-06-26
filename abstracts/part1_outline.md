@@ -9,28 +9,28 @@ This presentation introduces foundational concepts of open-source large language
 
 **Keywords:** Open-source LLMs, Ollama, LM Studio, Local Deployment, API Basics 🛠️
 
-1. 🚀 **Introduction & Motivation** (5 min)
+1. [🚀 **Introduction & Motivation** (5 min)](part1/01-introduction-motivation.md)
    - 🤔 What are LLMs? Why run them locally?
    - 🔒 Benefits: privacy, cost, customization
 
-2. 🌐 **Overview of Open-Source LLMs** (5 min)
+2. [🌐 **Overview of Open-Source LLMs** (5 min)](part1/02-overview-open-source-llms.md)
    - 🏆 Popular open-source models
    - 💻 Hardware considerations
 
-3. 🧰 **Tools for Local LLMs** (10 min)
+3. [🧰 **Tools for Local LLMs** (10 min)](part1/03-tools-for-local-llms.md)
    - 🦙 Introduction to Ollama and LM Studio
    - 🔗 RESTful API endpoints
 
-4. ⚙️ **Installation & Configuration** (10 min)
+4. [⚙️ **Installation & Configuration** (10 min)](part1/04-installation-configuration.md)
    - 🪜 Step-by-step: installing Ollama and LM Studio
    - 📦 Loading and managing models
 
-5. 📊 **Running Inference & Resource Monitoring** (5 min)
+5. [📊 **Running Inference & Resource Monitoring** (5 min)](part1/05-inference-resource-monitoring.md)
    - 🧪 Basic inference workflows
    - 🖥️ Monitoring system resources
 
-6. 🛠️ **Practical Examples** (5 min)
+6. [🛠️ **Practical Examples** (5 min)](part1/06-practical-examples.md)
    - 💻 Command-line interactions
    - 🤖 Using built-in RAG chatbots
 
-7. ❓ **Q&A** (10 min)
+7. [❓ **Q&A** (10 min)](part1/07-qa.md)
