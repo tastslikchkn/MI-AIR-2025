@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_IA.jpg" alt="Conference Logo" width="1000"/>
+  <img src="../images/logo_IA.jpg" alt="Conference Logo" width="1000"/>
 </p>
 
 # MI/AIR 2025 Conference Abstracts 🎉
@@ -9,7 +9,7 @@
 **Affiliation:**  
 
 **Abstract:**  
-This presentation introduces foundational concepts of open-source large language models (LLMs) and the benefits of hosting them locally. Attendees will learn how to run the most cutting-edge open-source models on premises. Running open source LLMs locally enhances privacy, reduces cloud costs, and provides flexibility for customization. We’ll explore tools such as Ollama and LM Studio, which simplify local LLM deployment by serving RESTful API endpoints to bridge the gap between a model and application. The session will cover installing and configuring Ollama and LM Studio, loading popular LLMs, and basic inference configurations. Participants will also learn how to monitor local resources and how to choose appropriate models and adjust parameters of the model to stay within their hardware’s capabilities. Lastly, attendees will be given examples of interacting with the models via command-line interfaces and built in Retrieval-Augmented Generation (RAG) chat bot. More in depth topics will be covered in Part2 and 3.
+This presentation introduces foundational concepts of open-source large language models (LLMs) and the benefits of hosting them locally. Attendees will learn how to run the most cutting-edge open-source models on premises. Running open source LLMs locally enhances privacy, reduces cloud costs, and provides flexibility for customization. We’ll explore tools such as Olloma and LM Studio, which simplify local LLM deployment by serving RESTful API endpoints to bridge the gap between a model and application. The session will cover installing and configuring Ollama and LM Studio, loading popular LLMs, and basic inference configurations. Participants will also learn how to monitor local resources and how to choose appropriate models and adjust parameters of the model to stay within their hardware’s capabilities. Lastly, attendees will be given examples of interacting with the models via command-line interfaces and built in Retrieval-Augmented Generation (RAG) chat bot. More in depth topics will be covered in Part2 and 3.
 
 **Keywords:** Open-source LLMs, Ollama, LM Studio, Local Deployment, API Basics 🛠️
 

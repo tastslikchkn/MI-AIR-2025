@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_IA.jpg" alt="Conference Logo" width="1000"/>
+  <img src="../images/logo_IA.jpg" alt="Conference Logo" width="1000"/>
 </p>
 
 
