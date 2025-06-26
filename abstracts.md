@@ -4,14 +4,6 @@
 
 # MI/AIR 2025 Conference Abstracts 🎉
 
-<p align="center">
-  <a href="https://sites.google.com/miair.org/miair2023/home">
-    <img src="https://lh6.googleusercontent.com/VuND54NjC7Z3bU7bZUDFnIU4Fqi033z4YpPcYUcLeZI2tlWxG4DnAGt9IrNr9RVOOHM6rSFi1dWy_eBhDWDNPVGSbTV2Gcre_D2rV7ODgIGAfph73xsahhA2hnPhn0CW4IZK2zq9JX3OIhfYXOtuBt38nz-7O4Qd9q46OXvTnhuONFK8RqLDmg=w1280" alt="MI/AIR Conference Logo" width="300"/>
-  </a>
-</p>
-
-[Visit the MI/AIR 2025 Conference Website](https://sites.google.com/miair.org/miair2023/home)
-
 ## Abstract 1: DIY Local LLM Bootcamp: From Zero to Inference in 45 Minutes 🤖
 **Authors:**  
 **Affiliation:**  
