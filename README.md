@@ -8,13 +8,6 @@ This repo contains abstracts, vocabulary guides, and supporting materials for th
 
 ## Index 📚
 
-- Abstracts & Outlines)
-  - [Part 1 Outline (with Abstract)](abstracts/part1_outline.md)
-  - [Part 2 Outline (with Abstract)](abstracts/part2_outline.md)
-  - [Part 3 Outline (with Abstract)](abstracts/part3_outline.md)
-
-- [Vocabulary & Acronyms](docs/vocabulary_and_acronyms.md)
-
 ### Setup Instructions by Operating System
 - [Windows Setup Guide 🦟](setup/WINDOWS_SETUP.md)
 - [Mac Setup Guide 🍏](setup/MAC_SETUP.md)
@@ -28,10 +21,10 @@ This repo contains abstracts, vocabulary guides, and supporting materials for th
 
 ## 📚 Interactive Outlines & Slides
 
+- [Vocabulary & Acronyms](docs/vocabulary_and_acronyms.md)
 - [Part 1 Outline & Abstract 🤖](abstracts/part1_outline.md)
 - [Part 2 Outline & Abstract 🔗](abstracts/part2_outline.md)
 - [Part 3 Outline & Abstract ✨](abstracts/part3_outline.md)
-- [Marp Slide Deck (Markdown)](SLIDES.md)
 
 <details>
   <summary>💡 Click to expand: How to Present Creatively on GitHub</summary>
