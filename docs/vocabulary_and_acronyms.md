@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="../images/logo_IA.jpg" alt="Conference Logo" width="1000"/>
+  <a href="https://www.umflint.edu/ia/"><img src="../images/logo_IA.jpg" alt="Conference Logo" width="1000"/></a>
 </p>
 
-
 # Vocabulary and Acronym Definitions 📚
-
 
 ## Acronyms 🔤
 
