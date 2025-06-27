@@ -1,3 +1,7 @@
+[⬅️ Back to Main Index](../README.md)
+[➡️ Go to Part 2 Outline](part2_outline.md)
+
+
 # Part 1 Outline: DIY Local LLM Bootcamp 🤖
 
 ## Abstract

@@ -1,3 +1,6 @@
+[⬅️ Back to Main Index](../README.md)
+[⬅️ Back to Part 2 Outline](part2_outline.md)
+
 # Part 3 Outline: Vibe Coding with Local LLMs ✨
 
 ## Abstract

@@ -1,3 +1,7 @@
+[⬅️ Back to Main Index](../README.md)
+[⬅️ Back to Part 1 Outline](part1_outline.md)
+[➡️ Go to Part 3 Outline](part3_outline.md)
+
 # Part 2 Outline: Bridging Local LLMs to Apps 🔗
 
 ## Abstract

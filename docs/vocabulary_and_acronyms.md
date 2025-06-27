@@ -1,3 +1,5 @@
+[⬅️ Back to Main Index](../README.md)
+
 <p align="center">
   <a href="https://www.umflint.edu/ia/"><img src="../images/logo_IA.jpg" alt="Conference Logo" width="1000"/></a>
 </p>
@@ -174,4 +176,4 @@
 
 ---
 
-If you encounter other unfamiliar terms during the conference, feel free to ask a presenter or staff member for clarification! 😊
+If you encounter other unfamiliar terms during the conference, feel free to ask a presenter for clarification! 😊
