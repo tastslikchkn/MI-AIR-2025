@@ -1,4 +1,6 @@
-[⬅️ Back to Main Index](../README.md)
+<div align="center">
+  <a href="../README.md" title="Home"><button>🏠 Home</button></a>
+</div>
 
 <img src="../images/windows.png" alt="Windows" width="50" style="vertical-align:middle;"/></a> Windows Setup Guide
 

@@ -1,6 +1,8 @@
-[⬅️ Back to Main Index](../README.md)
-[➡️ Go to Part 2 Outline](part2_outline.md)
-
+<div align="center">
+  <a href="../README.md" title="Home"><button>🏠 Home</button></a>
+  <button disabled title="No previous part">⬅️ Back</button>
+  <a href="part2_outline.md" title="Next"><button>➡️ Forward</button></a>
+</div>
 
 # Part 1 Outline: DIY Local LLM Bootcamp 🤖
 

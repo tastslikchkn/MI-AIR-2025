@@ -1,5 +1,8 @@
-[⬅️ Back to Main Index](../README.md)
-[⬅️ Back to Part 2 Outline](part2_outline.md)
+<div align="center">
+  <a href="../README.md" title="Home"><button>🏠 Home</button></a>
+  <a href="part2_outline.md" title="Previous"><button>⬅️ Back</button></a>
+  <button disabled title="No next part">➡️ Forward</button>
+</div>
 
 # Part 3 Outline: Vibe Coding with Local LLMs ✨
 

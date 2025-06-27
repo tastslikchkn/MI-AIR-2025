@@ -1,6 +1,8 @@
-[⬅️ Back to Main Index](../README.md)
-[⬅️ Back to Part 1 Outline](part1_outline.md)
-[➡️ Go to Part 3 Outline](part3_outline.md)
+<div align="center">
+  <a href="../README.md" title="Home"><button>🏠 Home</button></a>
+  <a href="part1_outline.md" title="Previous"><button>⬅️ Back</button></a>
+  <a href="part3_outline.md" title="Next"><button>➡️ Forward</button></a>
+</div>
 
 # Part 2 Outline: Bridging Local LLMs to Apps 🔗
 

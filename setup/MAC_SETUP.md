@@ -1,4 +1,4 @@
-[⬅️ Back to Main Index](../README.md)
+<div align="center">
 
 <img src="../images/apple.png" alt="Apple" width="50" style="vertical-align:middle;"/></a> Mac Setup Guide
 

@@ -1,4 +1,6 @@
-[⬅️ Back to Main Index](../README.md)
+<div align="center">
+  <a href="../README.md" title="Home"><button>🏠 Home</button></a>
+</div>
 
 <p align="center">
   <a href="https://www.umflint.edu/ia/"><img src="../images/logo_IA.jpg" alt="Conference Logo" width="1000"/></a>
