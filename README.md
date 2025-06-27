@@ -9,9 +9,9 @@ This repo contains abstracts, vocabulary guides, and supporting materials for th
 ## Index 📚
 
 ### Setup Instructions by Operating System
-- [Windows Setup Guide 🦟](setup/WINDOWS_SETUP.md)
-- [Mac Setup Guide 🍏](setup/MAC_SETUP.md)
-- [Linux Setup Guide 🐧](setup/LINUX_SETUP.md)
+- <a href="setup/WINDOWS_SETUP.md"><img src="images/windows.png" alt="Windows" width="50" style="vertical-align:middle;"/></a> [Windows Setup Guide](setup/WINDOWS_SETUP.md)
+- <a href="setup/MAC_SETUP.md"><img src="images/apple.png" alt="Apple" width="50" style="vertical-align:middle;"/></a> [Mac Setup Guide](setup/MAC_SETUP.md)
+- <a href="setup/LINUX_SETUP.md"><img src="images/ubuntu.png" alt="Ubuntu" width="50" style="vertical-align:middle;"/></a> [Linux Setup Guide](setup/LINUX_SETUP.md)
 
 ## Useful Links 🔗
 

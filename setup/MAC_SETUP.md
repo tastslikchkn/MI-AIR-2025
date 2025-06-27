@@ -1,4 +1,4 @@
-# Mac Setup Guide 🍏
+<img src="../images/apple.png" alt="Apple" width="50" style="vertical-align:middle;"/></a> Mac Setup Guide
 
 This guide will help you set up all required tools for the MI-AIR 2025 Conference materials on Mac.
 
